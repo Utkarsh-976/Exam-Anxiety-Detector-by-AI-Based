@@ -1,1 +1,1 @@
-MY PROJECT
+<b>MY PROJECT</b>
