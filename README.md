@@ -1,3 +1,3 @@
 <hr>
-<b>MY PROJECT</b>
+<b>MY PROJECT~</b>
 <hr>
